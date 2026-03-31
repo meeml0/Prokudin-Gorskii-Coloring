@@ -198,4 +198,3 @@ Sonuç olarak, tarihi Prokudin-Gorskii fotoğrafları başarılı bir şekilde r
 
 python main.py --input image.tif
 
-.
