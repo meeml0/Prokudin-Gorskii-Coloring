@@ -182,7 +182,7 @@ Bu proje kapsamında geliştirilen algoritma:
 
 
 
-Sonuç olarak, tarihi Prokudin-Gorskii fotoğrafları başarılı bir şekilde renklendirilmiş ve yüksek kaliteli çıktılar elde edilmiştir.
+Sonuç olarak, tarihi Prokudin-Gorskii fotoğrafları başarılı bir şekilde renklendirilmiş ve yüksek kaliteli çıktılar elde edilmiştir..
 
 
 
